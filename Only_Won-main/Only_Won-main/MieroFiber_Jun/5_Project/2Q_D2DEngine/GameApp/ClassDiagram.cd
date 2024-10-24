@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameApp">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQEAAAAAAAAAAAAAgAACABAAAAAAAAA=</HashCode>
+      <FileName>GameApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChaeWorld">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAQAACAAQAAAAAAAEgAEAIBAAAAAIAAA=</HashCode>
+      <FileName>ChaeWorld.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JunWorld">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAwQAQAAAAAEgAAAMAiAIAAACAo=</HashCode>
+      <FileName>JunWorld.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestWorld">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAQAAADwQAAAAAAAkxAAAoHAAIAQAAAA=</HashCode>
+      <FileName>TestWorld.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxObject">
+    <Position X="10.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>BoxObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraObject">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAICAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CameraObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoObject">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAABwAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DemoObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerObject">
+    <Position X="10.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QUfEhAaAOMALRRAaFMBUDEtQ4AQhwaAs7kEAwGgFyQY=</HashCode>
+      <FileName>PlayerObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerObject1">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAASAAAAAARAAAAAAAAACIAAAAIAMwAAAAEAAAAA=</HashCode>
+      <FileName>PlayerObject1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerObject2">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAASAAAAAARAAAAAAAAACIAAAAIAMwAAAAEAAAAA=</HashCode>
+      <FileName>PlayerObject2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIObject">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAIAAQAAACAAAAAAAAAAAAAAAAIAAAAACAA=</HashCode>
+      <FileName>UIObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
